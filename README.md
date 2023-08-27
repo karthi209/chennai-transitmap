@@ -12,3 +12,19 @@ Please mail me at karthikeyan14june@gmail.com if you find any corrections, or if
 I'll keep this repo updated with the latest map, with the most accurate info possible.
 
 Thanks!
+
+## What's New
+### v1.02
+
+Kamaraj Garden station removed
+Medavakkam Koot Rd, Medavakkam Jn renamed as Medavakkam I and Medavakkam II
+Venugopal Nagar station renamed as Madhavaram Depot
+Nathamuni station renamed Villivakkam MTH Road
+Renamed Anna Nagar Depot to Anna Nagar West
+Puzhuthivakkam metro renamedd as Ullagaram
+Purple line extension added in KEY
+Pallikarnai spelling changed to Pallikaranai
+Base color of map changed to slightly cooler tone
+Road color changed to cooler color to contrast with the base color
+Minor tweeks and enhancements
+
