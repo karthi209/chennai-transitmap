@@ -1,6 +1,8 @@
 ## Chennai Transit Network
 This is a comprehensive map of Chennai's Transit system.
 
+Note: This is not an official map.
+
 The map includes Chennai Metro, Chennai Suburban, Chennai MRTS lines. I've also included the important bus stops.
 
 Please note that this map includes operational and under-construction lines that are confirmed and taking shape as we speak. I've also included possible future lines in dashed lines. These dashed/dotted line corridors are only in proposal stage.
