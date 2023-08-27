@@ -5,7 +5,7 @@ Note: This is not an official map.
 
 The map includes Chennai Metro, Chennai Suburban, Chennai MRTS lines. I've also included the important bus stops.
 
-Please note that this map includes operational and under-construction lines that are confirmed and taking shape as we speak. I've also included possible future lines in dashed lines. These dashed/dotted line corridors are only in proposal stage.
+Please note that this map includes operational and under-construction lines that are confirmed and taking shape as we speak. I've also included possible future corridors in dashed lines. These dashed/dotted line corridors are only in proposal stage.
 
 The map is quite big, and text size, color are tailored to be viewed zoomed in. The JPEG and PDF file in this repo are of great quality, and the intricate details of the map can be viewed by zooming in. But if the map is shared as JPEG in social media, it might lose quality due to compression, and the user wont be able to read it's content properly. I suggest sharing this link or make sure to share as uncompressed files to make sure the content of the map is readable.
 
