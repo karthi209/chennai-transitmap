@@ -20,3 +20,7 @@ Thanks!
 
 Kamaraj Garden station removed | Medavakkam Koot Rd, Medavakkam Jn renamed as Medavakkam I and Medavakkam II | Venugopal Nagar station renamed as Madhavaram Depot | Nathamuni station renamed Villivakkam MTH Road | Renamed Anna Nagar Depot to Anna Nagar West | Puzhuthivakkam metro renamed as Ullagaram | Purple line extension added in KEY | Pallikarnai spelling changed to Pallikaranai | Base color of map changed to slightly cooler tone | Road color changed to cooler color to contrast with the base color | Minor tweeks and enhancements | Alwarthirunagar updated as one word
 
+### v2.0
+
+Used cooled background for better contrast | Adambakkam Metro and MRTS removed as interchange stations | Font style changed to Helvetica Condensed and Helvetica Condensed Bold | MTC Bus key and name removed | Only major MTC terminus near train stations included with a green MTC logo | Purple line extension removed | Metro service headway chart included in Key | Minor corrections in layer | Improved viewability with overall bigger font | redesigned the theme for better viewability
+
