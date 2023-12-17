@@ -22,5 +22,5 @@ Kamaraj Garden station removed | Medavakkam Koot Rd, Medavakkam Jn renamed as Me
 
 ### v2.0
 
-Used cooled background for better contrast | Adambakkam Metro and MRTS removed as interchange stations | Font style changed to Helvetica Condensed and Helvetica Condensed Bold | MTC Bus key and name removed | Only major MTC terminus near train stations included with a green MTC logo | Purple line extension removed | Metro service headway chart included in Key | Minor corrections in layer | Improved viewability with overall bigger font | redesigned the theme for better viewability
+Used cooled background for better contrast | Adambakkam Metro and MRTS removed as interchange stations | Font style changed to Helvetica Condensed and Helvetica Condensed Bold | MTC Bus key and name removed | Only major MTC terminus near train stations included with a green MTC logo | Purple line extension removed | Metro service headway chart included in Key | Minor corrections in layer | Improved viewability with overall bigger font | redesigned the theme for better viewability | Alandur - St.Thomas Mount green line removed
 
