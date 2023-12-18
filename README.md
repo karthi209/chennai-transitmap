@@ -13,7 +13,7 @@ Please mail me at karthikeyan14june@gmail.com if you find any corrections, or if
 
 I'll keep this repo updated with the latest map, with the most accurate info possible.
 
-Thanks!
+Thanks!<br>
 Karthik
 
 ## What's New
